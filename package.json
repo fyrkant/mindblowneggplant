@@ -1,0 +1,26 @@
+{
+  "name": "mindblowneggplant",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  },
+
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyrkant/mindblowneggplant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyrkant/mindblowneggplant/issues"
+  },
+  "homepage": "https://github.com/fyrkant/mindblowneggplant#readme"
+}
